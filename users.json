@@ -1,0 +1,99 @@
+{
+  "sanjay.2k4.ravindran@gmail.com": {
+    "name": "Sanjay",
+    "email": "sanjay.2k4.ravindran@gmail.com",
+    "password_hash": "6c11acdb52285d5975f934910876536ec8e6394c7e9777d1d8524550e584b4b0",
+    "current_role": "Studying ",
+    "target_role": "Data Scientist",
+    "experience": "Student / Fresher",
+    "history": [
+      {
+        "filename": "RA2211026020229.pdf",
+        "target_role": "ML Engineer",
+        "match_pct": 23,
+        "date": "08 Apr 2026"
+      },
+      {
+        "filename": "RA2211026020229 (1).pdf",
+        "target_role": "Data Scientist",
+        "match_pct": 53,
+        "date": "08 Apr 2026"
+      }
+    ]
+  },
+  "ajay19062008@gmail.com": {
+    "name": "Ajay Ravindran",
+    "email": "ajay19062008@gmail.com",
+    "password_hash": "",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocKjfo0FtOf5OgGC85krXRnnEgUo8GnBA-RFMvUWKgHOQk3trIk=s96-c",
+    "current_role": "B,Com General",
+    "target_role": "Graphic Designer",
+    "field": "Arts & Design",
+    "experience": "Student / Fresher",
+    "history": [],
+    "auth_provider": "google",
+    "needs_profile": false
+  },
+  "sanjayvenkat626@gmail.com": {
+    "name": "Sanjay Venkat",
+    "email": "sanjayvenkat626@gmail.com",
+    "password_hash": "",
+    "picture": "https://lh3.googleusercontent.com/a/ACg8ocIwoTQ0hNXLu4gQz1TQv6F9rkGuVfvyv2oT6s8SSvuiXLdkrOzD=s96-c",
+    "current_role": "B.tech Computer Science AIML",
+    "target_role": "Data Analyst",
+    "field": "Computer Science & Technology",
+    "experience": "Student / Fresher",
+    "history": [
+      {
+        "filename": "RA2211026020229 (1).pdf",
+        "target_role": "Data Analyst",
+        "match_pct": 0,
+        "date": "09 Apr 2026"
+      },
+      {
+        "filename": "RA2211026020229 (1).pdf",
+        "target_role": "Data Analyst",
+        "match_pct": 0,
+        "date": "09 Apr 2026"
+      },
+      {
+        "filename": "RA2211026020229 (1).pdf",
+        "target_role": "Data Analyst",
+        "match_pct": 0,
+        "date": "09 Apr 2026"
+      },
+      {
+        "filename": "RA2211026020229 (1).pdf",
+        "target_role": "Data Analyst",
+        "match_pct": 0,
+        "date": "09 Apr 2026"
+      },
+      {
+        "filename": "RA2211026020229 (1).pdf",
+        "target_role": "Data Analyst",
+        "match_pct": 0,
+        "date": "09 Apr 2026"
+      },
+      {
+        "filename": "Sanjay_Intellipaat_Resume.pdf",
+        "target_role": "Data Analyst",
+        "match_pct": 15,
+        "date": "09 Apr 2026"
+      },
+      {
+        "filename": "Sanjay_Intellipaat_Resume.pdf",
+        "target_role": "Data Analyst",
+        "match_pct": 15,
+        "date": "09 Apr 2026"
+      },
+      {
+        "filename": "Sanjay_Intellipaat_Resume.pdf",
+        "target_role": "Data Analyst",
+        "match_pct": 15,
+        "date": "09 Apr 2026"
+      }
+    ],
+    "auth_provider": "google",
+    "needs_profile": false
+  }
+}
